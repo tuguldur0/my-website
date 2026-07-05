@@ -22,3 +22,7 @@ This is the source code of my personal portfolio website! This project is built 
 - contact.html # A list of places you can contact me with links
 - styles.css # Core layout, design systems, and transitions
 - README.md # Documentation (this file)
+
+---
+
+AI Disclaimer: I wrote the HTML architecture, page structure, and core styling myself. I utilized an AI assistant purely as an engineering tool to help troubleshoot a cross-browser double-scrollbar bug and format the aligned Flexbox/gap spacing for my social link layouts.
