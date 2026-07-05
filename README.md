@@ -16,9 +16,9 @@ This is the source code of my personal portfolio website! This project is built 
 
 ---
 
-├── index.html # Main landing page
-├── about.html # About me page
-├── blog.html # A place with blogs I will write in the future
-├── contact.html # A list of places you can contact me with links
-├── styles.css # Core layout, design systems, and transitions
-└── README.md # Documentation (this file)
+- index.html # Main landing page
+- about.html # About me page
+- blog.html # A place with blogs I will write in the future
+- contact.html # A list of places you can contact me with links
+- styles.css # Core layout, design systems, and transitions
+- README.md # Documentation (this file)
